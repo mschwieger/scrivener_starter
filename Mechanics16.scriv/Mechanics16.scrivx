@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<ScrivenerProject Version="1.0" Creator="SCRMAC-2.5-25239" Modified="2012-04-24 00:00:00 +0000">
+<ScrivenerProject Version="1.5" Creator="SCRMAC-2.7.1-26120" Device="zer0t0nin" Modified="2016-02-11 20:58:48 +0100" ModID="37B97BAC-CD4F-4E46-9335-752602C47C15">
     <Binder>
-        <BinderItem ID="0" Type="DraftFolder" Created="2012-04-24 00:00:00 +0000" Modified="2012-04-24 00:00:00 +0000">
+        <BinderItem ID="0" UUID="3EB98A4C-6D51-48CE-B63C-CB0D1AB32332" Type="DraftFolder" Created="2012-04-24 02:00:00 +0200" Modified="2012-04-24 02:00:00 +0200">
             <Title>Draft</Title>
             <MetaData>
                 <IncludeInCompile>Yes</IncludeInCompile>
             </MetaData>
         </BinderItem>
-        <BinderItem ID="1" Type="ResearchFolder" Created="2012-04-24 00:00:00 +0000" Modified="2012-04-24 00:00:00 +0000">
+        <BinderItem ID="1" UUID="2EEB1D08-D5F4-4A67-AD0F-8C1A5E4C8680" Type="ResearchFolder" Created="2012-04-24 02:00:00 +0200" Modified="2012-04-24 02:00:00 +0200">
             <Title>Research</Title>
             <MetaData>
                 <IncludeInCompile>Yes</IncludeInCompile>
             </MetaData>
         </BinderItem>
-        <BinderItem ID="2" Type="TrashFolder" Created="2012-04-24 00:00:00 +0000" Modified="2012-04-24 00:00:00 +0000">
+        <BinderItem ID="2" UUID="60C3053E-9C1F-4738-B240-5A8AE58087D9" Type="TrashFolder" Created="2012-04-24 02:00:00 +0200" Modified="2012-04-24 02:00:00 +0200">
             <Title>Trash</Title>
             <MetaData>
                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -21,11 +21,11 @@
         </BinderItem>
     </Binder>
     <Collections>
-        <Collection Type="Binder" ID="CAFEBABE-0000-0000-0000-000000000000" Color="0.784753 0.815752 0.848702">
-            <Title>Binder</Title>
+        <Collection Type="Binder" ID="CAFEBABE-0000-0000-0000-000000000000" Color="0.962266 0.962266 0.962266">
+            <Title>Mappe</Title>
         </Collection>
         <Collection Type="RecentSearch" ID="DEADBEEF-0000-0000-0000-000000000000" Color="0.922 0.91 0.98">
-            <Title>Search Results</Title>
+            <Title>Suchergebnisse</Title>
         </Collection>
     </Collections>
     <LabelSettings>
@@ -50,9 +50,9 @@
         </StatusItems>
     </StatusSettings>
     <ProjectTargets Notify="No">
-        <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2012-04-24 00:00:00 +0000" IgnoreDeadline="Yes">0</DraftTarget>
+        <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2012-04-24 02:00:00 +0200" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2012-04-24 00:00:00 +0000"></PreviousSession>
+        <PreviousSession Words="0" Characters="0" Date="2016-02-11 20:58:31 +0100"></PreviousSession>
     </ProjectTargets>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>
